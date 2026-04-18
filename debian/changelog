@@ -1,0 +1,13 @@
+ansir (0.1.1) UNRELEASED; urgency=medium
+
+  * deb
+
+ -- vitex <info@vitexsoftware.cz>  Sat, 18 Apr 2026 14:44:42 +0200
+
+ansir (0.1.0) unstable; urgency=low
+
+  [ Vítězslav Dvořák ]
+  * Initial release. Closes: #nnnn
+    <nnnn is the bug number of your ITP>
+
+ -- vitex <info@vitexsoftware.cz>  Sat, 18 Apr 2026 14:44:35 +0200

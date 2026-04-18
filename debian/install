@@ -1,0 +1,8 @@
+ansir-api.js usr/share/nodejs/ansir/
+ansir-cli.js usr/share/nodejs/ansir/
+src/*.js usr/share/nodejs/ansir/src/
+src/renderers/*.js usr/share/nodejs/ansir/src/renderers/
+package.json usr/share/nodejs/ansir/
+README.md usr/share/doc/ansir/
+ansir usr/bin
+

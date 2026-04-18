@@ -85,7 +85,7 @@ class SubBlockColorTable
       bg   : @getNearestColor([p0, p3])
     ]
 
-    best = _.min(candidates, (c) -> c.fg.distance + c.bg.distance)
+    best = _.minBy(candidates, (c) -> c.fg.distance + c.bg.distance)
     return {
       fg   : best.fg.value?.fg
       bg   : best.bg.value?.bg

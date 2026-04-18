@@ -1,0 +1,3 @@
+#!/bin/sh
+NODE_PATH="/usr/share/nodejs"
+exec node /usr/share/nodejs/ansir/ansir-cli.js "$@"

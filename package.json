@@ -29,15 +29,15 @@
     "postdeploy_patch": "git push && git push --tags"
   },
   "dependencies": {
-    "bluebird": ">=2.x.x",
-    "chroma-js": ">=1.x.x",
-    "coffeescript": ">=1.x.x",
-    "commander": ">=2.x.x",
-    "lodash": ">=3.x.x",
-    "pngjs": ">=0.4.x"
+    "bluebird": "^3.7.2",
+    "chroma-js": "^2.4.0",
+    "commander": "^9.4.1",
+    "lodash": "^4.18.1",
+    "pngjs": "^3.0.0"
   },
   "devDependencies": {
-    "chai": ">=2.x.x",
-    "mocha": ">=2.3.x"
+    "chai": "^6.2.2",
+    "coffeescript": "^2.7.0",
+    "mocha": "^11.3.0"
   }
 }

@@ -27,3 +27,10 @@ build/Release
 node_modules
 
 .DS_Store
+debian/ansir.substvars
+debian/ansir/
+debian/.debhelper/
+debian/debhelper-build-stamp
+debian/files
+tmp-ansir/
+package-lock.json
