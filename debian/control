@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Vítězslav Dvořák <info@vitexsoftware.cz>
 Build-Depends:
  debhelper-compat (= 13),
- dh-nodejs,
+ dh-nodejs | pkg-js-tools
 Standards-Version: 4.7.0
 Homepage: <insert the upstream URL, if relevant>
 Rules-Requires-Root: no
