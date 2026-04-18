@@ -1,6 +1,5 @@
 fs      = require 'fs'
 {PNG}   = require 'pngjs'
-Promise = require 'bluebird'
 chroma  = require 'chroma-js'
 
 loadPng = (pngPath) ->

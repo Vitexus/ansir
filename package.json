@@ -29,7 +29,6 @@
     "postdeploy_patch": "git push && git push --tags"
   },
   "dependencies": {
-    "bluebird": "^3.7.2",
     "chroma-js": "^2.4.0",
     "commander": "^9.4.1",
     "lodash": "^4.18.1",

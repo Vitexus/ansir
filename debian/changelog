@@ -1,6 +1,6 @@
 ansir (0.1.1) UNRELEASED; urgency=medium
 
-  * deb
+  * Drop node-bluebird dependency: replace with native Promise (Forky compat)
 
  -- vitex <info@vitexsoftware.cz>  Sat, 18 Apr 2026 14:44:42 +0200
 
